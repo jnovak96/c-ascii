@@ -1,4 +1,4 @@
 # c-ascii
-Useless and barely functioning ascii program in C++.
-Eventually want it to load .obj files and be a simple but functional ASCII renderer.
-As of now it does practically nothing.
+WIP renderer written in C that outputs to linux console window in ASCII
+Currently: Draws a static image of two distinct lines which can have their coordinates programmed
+To Do: capability to read .obj files and output full images, animations, etc
