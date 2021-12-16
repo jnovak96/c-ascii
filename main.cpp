@@ -19,7 +19,7 @@ void horizontalLine(int y)
 
 }
 
-//looks like shit
+//hacky way to clear screen
 void clearScreen()
 {
 	for (int i = 0; i < RES_Y; i++)
